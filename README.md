@@ -7,5 +7,10 @@ Centos 6+
 RHEL 6+
 
 ## Usage
-wget https://raw.githubusercontent.com/paycoreio/node-exporter-installer/master/install.sh | sudo sh
-bash install.sh
+```bash
+$ wget https://raw.githubusercontent.com/paycoreio/node-exporter-installer/master/install.sh | sudo sh
+
+$ bash install.sh
+```
+
+
