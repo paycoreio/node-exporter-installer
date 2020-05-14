@@ -7,4 +7,5 @@ Centos 6+
 RHEL 6+
 
 ## Usage
-curl -sSL https://github.com/paycoreio/node-exporter-installer/install.sh | sudo sh
+wget https://raw.githubusercontent.com/paycoreio/node-exporter-installer/master/install.sh | sudo sh
+bash install.sh
