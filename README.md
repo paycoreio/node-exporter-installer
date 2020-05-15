@@ -8,9 +8,7 @@ RHEL 6+
 
 ## Usage
 ```bash
-$ wget https://raw.githubusercontent.com/paycoreio/node-exporter-installer/master/install.sh | sudo sh
-
-$ bash install.sh
+$ curl -sSL https://raw.githubusercontent.com/paycoreio/node-exporter-installer/master/install.sh | sudo sh
 ```
 
 
